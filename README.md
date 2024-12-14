@@ -8,7 +8,7 @@ With a foundation in **HTML**, **CSS**, and **JavaScript**, I’ve also explored
 ---
 
 ### 🚀 Skills & Technologies  
-- **HTML & CSS**: Mastering Flexbox, Grid, and responsive design principles.  
+- **HTML & CSS**: Flexbox, Grid, and responsive design principles.  
 - **JavaScript**: Adding interactivity and dynamic features.  
 - **API Integration**: Fetching and displaying live data to create engaging user experiences.  
 - **Figma**: Designing modern, user-centered prototypes and layouts.  
